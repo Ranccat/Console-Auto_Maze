@@ -1,0 +1,14 @@
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\bin\Debug\net6.0\Console_Maze.exe
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\bin\Debug\net6.0\Console_Maze.deps.json
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\bin\Debug\net6.0\Console_Maze.runtimeconfig.json
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\bin\Debug\net6.0\Console_Maze.dll
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\bin\Debug\net6.0\Console_Maze.pdb
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\obj\Debug\net6.0\Console_Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\obj\Debug\net6.0\Console_Maze.AssemblyInfoInputs.cache
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\obj\Debug\net6.0\Console_Maze.AssemblyInfo.cs
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\obj\Debug\net6.0\Console_Maze.csproj.CoreCompileInputs.cache
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\obj\Debug\net6.0\Console_Maze.dll
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\obj\Debug\net6.0\refint\Console_Maze.dll
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\obj\Debug\net6.0\Console_Maze.pdb
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\obj\Debug\net6.0\Console_Maze.genruntimeconfig.cache
+C:\UnityProjects\Practices\Console_Maze\Console_Maze\obj\Debug\net6.0\ref\Console_Maze.dll
